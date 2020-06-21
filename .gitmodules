@@ -1,0 +1,36 @@
+[submodule "coinmarket_twitterstats"]
+	path = coinmarket_twitterstats
+	url = https://gitlab.com/run2devtest/coinmarket_twitterstats.git
+[submodule "ichimoku"]
+	path = ichimoku
+	url = https://gitlab.com/run2devtest/ichimoku.git
+[submodule "the_sauce"]
+	path = the_sauce
+	url = https://gitlab.com/run2devtest/the_sauce.git
+[submodule "gal_bot"]
+	path = gal_bot
+	url = https://gitlab.com/run2devtest/gal_bot.git
+[submodule "pumpcatcher"]
+	path = pumpcatcher
+	url = https://gitlab.com/run2devtest/pumpcatcher.git
+[submodule "the_cloud"]
+	path = the_cloud
+	url = https://gitlab.com/run2devtest/the_cloud.git
+[submodule "Exchange_Scanner"]
+	path = Exchange_Scanner
+	url = https://gitlab.com/run2devtest/Exchange_Scanner.git
+[submodule "The_Last_Signal"]
+	path = The_Last_Signal
+	url = https://gitlab.com/run2devtest/The_Last_Signal.git
+[submodule "polovol"]
+	path = polovol
+	url = https://gitlab.com/run2devtest/polovol.git
+[submodule "cloudmod"]
+	path = cloudmod
+	url = https://gitlab.com/run2devtest/cloudmod.git
+[submodule "exchange-pumper"]
+	path = exchange-pumper
+	url = https://gitlab.com/run2devtest/exchange-pumper.git
+[submodule "discord-voice-gtts-server"]
+	path = discord-voice-gtts-server
+	url = https://gitlab.com/run2devtest/discord-voice-gtts-server.git
